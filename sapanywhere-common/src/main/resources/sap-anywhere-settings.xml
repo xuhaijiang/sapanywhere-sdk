@@ -1,0 +1,13 @@
+<!-- <AppSetting>
+    <appId>wx6adbf570416a4987</appId>
+    <secret>9a0773c172f4cd09d15ed5133bcba148</secret>
+    <token>xhj</token>
+    <aesKey>lRE3qfnBHxqzBE5i12v6CzU257ERsOIeMKqfDPdFu5c</aesKey>
+</AppSetting> -->
+
+<AppSetting>
+    <clientId>5969635160684579-URe3aPdMyM4ug41CVFJytG943ZyQNKC7</clientId>
+    <clientSecret>h37QrzF8uBNA9FlvoUNqob-CPmCr</clientSecret>
+    <grantType>refresh_token</grantType>
+    <refreshToken>91ec9677-047d-4125-9fa7-3530ae16f917</refreshToken>
+</AppSetting>

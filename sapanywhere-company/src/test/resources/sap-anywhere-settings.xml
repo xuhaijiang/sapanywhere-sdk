@@ -1,0 +1,15 @@
+<!-- 公司名称：测试专用       私有应用名称：HC-->
+<!-- <AppSetting>
+    <clientId>5969635160684579-URe3aPdMyM4ug41CVFJytG943ZyQNKC7</clientId>
+    <clientSecret>h37QrzF8uBNA9FlvoUNqob-CPmCr</clientSecret>
+    <grantType>refresh_token</grantType>
+    <refreshToken>91ec9677-047d-4125-9fa7-3530ae16f917</refreshToken>
+</AppSetting> -->
+
+<!-- 公司名称：测试专用      私有应用名称：CSAPI-->
+<AppSetting>
+    <clientId>5969635160684579-Vn9XRmtZcU6ynHC3LQ3QdwPLhHT8Vaz2</clientId>
+    <clientSecret>xtvwaK6K1LWaHPgj8WLx1Nr-Dl2j</clientSecret>
+    <grantType>refresh_token</grantType>
+    <refreshToken>f6251864-3f49-4c48-8ea3-05e4aa06719a</refreshToken>
+</AppSetting>
